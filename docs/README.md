@@ -1,6 +1,6 @@
 # Mars Rover Simulator
 
-Simulate Mars rover missions using real terrain data and advanced pathfinding algorithms.
+Simulate Mars rover missions using real terrain data and advanced pathfinding.
 
 <p align="center">
   <img src="./homescreen.png" alt="Home Screen" width="320"/>
